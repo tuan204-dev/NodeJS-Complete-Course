@@ -1,0 +1,7 @@
+main {
+  display: flex;
+  height: 30vh;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+}
